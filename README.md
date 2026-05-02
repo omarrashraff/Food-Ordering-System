@@ -1,4 +1,5 @@
 **Food Ordering System — Project Documentation**
+Developed in collaboration with @minshawi0 as part of the Cryptography course at Cairo University, Faculty of Engineering.
 
 **Overview**
 
